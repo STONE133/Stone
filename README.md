@@ -1,6 +1,6 @@
 <h1 align="center"> STONE-MD</h1>
 
-<p align="https://img1.pixhost.to/images/7263/622754992_imgtmp.jpg"center">
+<p align='https://img1.pixhost.to/images/7263/622754992_imgtmp.jpg'center">
   <img src="" alt="STONE-MD Profile" width="200" style="border-radius: 20px;" />
 </p>
 
